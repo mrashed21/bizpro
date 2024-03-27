@@ -166,8 +166,7 @@ main {
   width: 100%;
 }
 .about .about-right .star {
-  transform: translate(215%, -40%);
-  display: none;
+ transform: translate(240%, -40%);
 }
 .about .about-right .growth {
   width: 350px;
